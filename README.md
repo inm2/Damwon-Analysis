@@ -13,11 +13,11 @@ DISCLAIMER: I try to keep up with League of Legends as much as I can on the comp
 ACKNOWLEDGEMENT: I'd like to thank my friend Quinn for helping me figure out what type of data would be valuable to visualize. 
 
 ## Resources Used 
-[DAMWON statistics by player](https://lol.gamepedia.com/DAMWON_Gaming/Statistics/2020)
-[Inspiration for doing this project](https://towardsdatascience.com/what-is-like-to-be-a-data-scientist-with-a-passion-for-gaming-43c067ad6415)
-[Oracle's Elixr - Includes all of the data I used for the project](https://oracleselixir.com/tools/downloads)
-SQL
-Python 3.7 (Spyder IDE)
+- [DAMWON statistics by player](https://lol.gamepedia.com/DAMWON_Gaming/Statistics/2020)    
+- [Kamal Chouhbi - Inspiration for doing this project](https://towardsdatascience.com/what-is-like-to-be-a-data-scientist-with-a-passion-for-gaming-43c067ad6415)  
+- [Oracle's Elixr - Includes all of the data I used for the project](https://oracleselixir.com/tools/downloads)  
+- SQL  
+- Python 3.7 (Spyder IDE)  
 
 ## League of Legends Overview
 League of Legends is a 5v5 multiplayer game. The objective of the game's flagship mode, Summoner's Rift, is to destroy an enemy's base or Nexus. To do so, players on each team start on one side and must traverse and destroy any obstacles, in the form of enemies, turrets, and inhibitors, to reach an opponent's Nexus. 
