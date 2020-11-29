@@ -20,7 +20,7 @@ ACKNOWLEDGEMENT: I'd like to thank my friend Quinn for helping me figure out wha
 - Python 3.7 (Spyder IDE)  
 
 ## Links to Projects
-[Damwon's Spring and Summer Seasons At a Glance]()
+[Damwon's Spring and Summer Seasons At a Glance](https://github.com/inm2/Damwon-Analysis/blob/main/1%20-%20Damwon%20Season%20At%20A%20Glance.ipynb)
 [Factors That Make a Difference in Competititve LoL]()
 
 ## League of Legends Overview
