@@ -20,24 +20,15 @@ ACKNOWLEDGEMENT: I'd like to thank my friend Quinn for helping me figure out wha
 - Python 3.7 (Spyder IDE)  
 
 ## Links to Projects
-[Damwon's Spring and Summer Seasons At a Glance](https://github.com/inm2/Damwon-Analysis/blob/main/1%20-%20Damwon%20Season%20At%20A%20Glance.ipynb)
-[Factors That Make a Difference in Competititve LoL]()
+1. [Damwon's Spring and Summer Seasons At a Glance](https://github.com/inm2/Damwon-Analysis/blob/main/1%20-%20Damwon%20Season%20At%20A%20Glance.ipynb)  
+2. [Factors of Dominance - Gold Difference](https://github.com/inm2/Damwon-Analysis/blob/main/2%20-%20Factors%20of%20Dominance.ipynb)  
 
 ## League of Legends Overview
 League of Legends is a 5v5 multiplayer game. The objective of the game's flagship mode, Summoner's Rift, is to destroy an enemy's base or Nexus. To do so, players on each team start on one side and must traverse and destroy any obstacles, in the form of enemies, turrets, and inhibitors, to reach an opponent's Nexus. 
 
-Picture of the lanes
+[Map Overview](https://www.google.com/search?q=league+of+legends+map+overview+top+bottom+middle&tbm=isch&ved=2ahUKEwiKu8KS6abtAhXUEFMKHYFHCPgQ2-cCegQIABAA&oq=league+of+legends+map+overview+top+bottom+middle&gs_lcp=CgNpbWcQAzoECAAQHlCQSlixaWCQamgAcAB4AIABbIgB-AuSAQQxNi4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=xxbDX8q7CtShzAKBj6HADw&bih=692&biw=1376&client=firefox-b-1-d#imgrc=GaycUvqvzNGygM)
 
 The five roles that compose each team are: Top, Mid, Jungle, Attack Damage Carry (ADC), and Support. 
-
-## Gold and Creep Score Difference
-Need to explain the early, mid, and late game stuff. 
-
-Next, I analyzed the Creep Score Difference (CSD) and Gold Difference (GD) at the 10 and 15 minute intervals. The purpose of CSD and GD is to show the level of dominance of each lane, to show the tendencies in the jungle, and to show how well a team performs in the early portion of the game. 
-
-## Average Game Time
-To continue the analysis, I have looked at the average game time per match of Damwon, which shows if they can end games out of an early lead or build more towards later team fights. 
-
 
 ## Where to go from here?
 In the future, I want to create my own linear/logitistic regression model(s) to see if the prediction of outcomes on a game-by-game basis for Damwon can be accurately modeled. This model will require future studying of League's mechanics. I wanted to include it for this version of text, but MySQL somehow deleted during import the Drake and Baron data, as well as any tower destruction data. If I can't figure out why the import is messing up these values, I will have to create a dataframe in Python and do my parameterization and filtering through Pandas. This page will be updated with any future info.  
