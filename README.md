@@ -8,7 +8,7 @@ As someone who wants to use data science and machine learning towards esports, I
 
 This year (2020), DAMWON Gaming, the number 1 team from LoL Champions Korea (LCK) won the League of Legends World Championship. I wanted to use the data from their matches to be able to snapshot the year they had and to try to take an analytical dive into some of their successes.   
 
-DISCLAIMER: I try to keep up with League of Legends as much as I can on the competitive scene, but my in-game knowledge is pretty low. This project will serve two purposes: 1. To make myself more informed about the game on at least a statistical level, and 2. to show some competency with coding in SQL and Python. 
+DISCLAIMER: I try to keep up with League of Legends as much as I can on the competitive scene, but my in-game knowledge is pretty low. This project will serve two purposes: 1. To make myself more informed about the game on at least a statistical level, and 2. to work more with SQL and Python. 
 
 ACKNOWLEDGEMENT: I'd like to thank my friend Quinn for helping me figure out what type of data would be valuable to visualize. 
 
