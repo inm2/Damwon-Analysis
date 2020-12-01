@@ -22,6 +22,8 @@ ACKNOWLEDGEMENT: I'd like to thank my friend Quinn for helping me figure out wha
 ## Links to Projects
 1. [Damwon's Spring and Summer Seasons At a Glance](https://github.com/inm2/Damwon-Analysis/blob/main/1%20-%20Damwon%20Season%20At%20A%20Glance.ipynb)  
 2. [Factors of Dominance - Gold Difference](https://github.com/inm2/Damwon-Analysis/blob/main/2%20-%20Factors%20of%20Dominance.ipynb)  
+3. [Importance of Dragons and Barons](https://github.com/inm2/Damwon-Analysis/blob/main/3%20-%20Importance%20of%20Dragons.ipynb)  
+4. COMING SOON!  
 
 ## League of Legends Overview
 League of Legends is a 5v5 multiplayer game. The objective of the game's flagship mode, Summoner's Rift, is to destroy an enemy's base or Nexus. To do so, players on each team start on one side and must traverse and destroy any obstacles, in the form of enemies, turrets, and inhibitors, to reach an opponent's Nexus. 
